@@ -1,8 +1,0 @@
----
-layout: post
-title:  "My first blog!"
-date:   2015-04-13 11:48:28
-categories: jekyll update
----
-
-Wow, this is my first blog!
